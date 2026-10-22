@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on<br>Building a FastAPI project to serve and deploy machine learning models, with a focus on production-ready API design. <br><br>I’m looking to collaborate on<br>Open source backend and ML tooling projects, particularly Python-based APIs, ML model serving, and MLOps utilities. I’m also open to contributing to documentation and beginner-friendly issues.<br><br>I’m looking for help with<br>Making my first open source contributions: choosing the right repositories, understanding contribution workflows, and getting feedback on pull requests.<br><br>I’m currently learning<br>Machine learning, along with FastAPI and MLOps, with the goal of building, deploying, and monitoring production-ready ML systems. I’m also learning German and have completed Goethe A1 Deutsch Zertifikat..<br><br>Ask me about<br>FastAPI and backend development, getting started with machine learning and MLOps, and learning German alongside an engineering degree.<br><br>Fun fact<br>I’m learning German alongside my engineering studies and have completed the A1 Global Certification.
+Learning ML, FastAPI, and MLOps, with a focus on serving and deploying models in production. Looking to make my first open source contributions in Python backend and ML tooling. Also learning German: Goethe-Zertifikat A1 done, now working toward A2.
 
 
 ## 🌐 Socials:
